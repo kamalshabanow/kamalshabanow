@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Kamal</h1>
 <h3 align="center">Java Backend Developer</h3>
 
 - 📝 I regularly write articles on [https://medium.com/@kamalshabanov](https://medium.com/@kamalshabanov)
@@ -19,3 +18,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamalshabanow&show_icons=true&locale=en" alt="kamalshabanow" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamalshabanow&" alt="kamalshabanow" /></p>
+
