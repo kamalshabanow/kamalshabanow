@@ -1,7 +1,5 @@
 <h3 align="center">Java Backend Developer</h3>
 
-- 📝 I regularly write articles on [https://medium.com/@kamalshabanov](https://medium.com/@kamalshabanov)
-
 - 📫 How to reach me **kamalshabanov04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
