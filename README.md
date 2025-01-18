@@ -1,7 +1,5 @@
 <h3 align="center">Java Backend Developer</h3>
 
-- 📫 How to reach me **kamalshabanov04@gmail.com**
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamalshabanow&show_icons=true&locale=en" alt="kamalshabanow" /></p>
   
   
