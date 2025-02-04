@@ -1,6 +1,6 @@
 <h3 align="center">Backend Developer</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamalshabanow&show_icons=true&locale=en&theme=highcontrast" alt="kamalshabanow" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamalshabanow&show_icons=true&locale=en&theme=dark" alt="kamalshabanow" /></p>
   
   
 <h3 align="left">Connect with me:</h3>
